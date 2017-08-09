@@ -4,7 +4,7 @@ import android.content.Context;
 import android.view.View;
 
 /**
- * Created by ztx on 17/8/9.
+ * Created by damonzero1991 on 17/8/9.
  */
 
 public class BaseView extends View {
